@@ -1,14 +1,10 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "About Me"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Eric Earl is a Neuroinformaticist supporting research in the Developmental Cognition and Neuroimaging (DCAN) Labs at Oregon Health & Science University (OHSU) half-time and supporting software research and development at Nous Imaging half-time.  He has been computer programming for academic research since 2005, having been a part of the National Center for Rehabilitative Auditory Research (NCRAR), the OHSU Biomedical Engineering Department (BME), the OHSU Advanced Imaging Research Center (AIRC), and the Oregon National Primate Research Center (ONPRC).  With the success of the co-created free academic research software, Framewise Integrated Real-time MRI Monitoring (FIRMM), Nous Imaging was founded and he was brought on as a Senior Engineer in 2019 to help bring FIRMM to market.
 
-## Current Interests and Projects:
+Eric's professional interests are in business intelligence, improving data workflows for accessibility, managing data-heavy projects with an eye for efficient solutions, and generalizing software solutions by leveraging existent tools.  In his current role as Research Associate and Computing Team Lead in the DCAN Labs he has led the team to create a set of complete image processing pipelines to process magnetic resonance imaging (MRI) sessions using the Brain Imaging Data Structure (BIDS) standard and BIDS App format.  This proud work has also been [open-sourced on GitHub](https://github.com/DCAN-Labs) and [released on Docker Hub](https://hub.docker.com/r/dcanlabs) as well as getting a [DOI on Zenodo](https://doi.org/10.5281/zenodo.2605698) for each pipeline.  The abcd-hcp-pipeline was also used to process 10,000+ MRI sessions from the Adolescent Brain Cognitive Development (ABCD) Study and 70 Terabytes of derivative data from this work are being shared on the [NIMH Data Archive Collection 3165](https://nda.nih.gov/edit_collection.html?id=3165), fully documented on [ReadTheDocs](https://collection3165.readthedocs.io/).
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+You can find publications to which he has contributed in the Google Scholar link to the left.  Please feel welcome to say hello over email anytime.
