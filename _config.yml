@@ -8,10 +8,10 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Eric Earl
   avatar: bio-photo.jpg
-  bio: "Neuroinformaticist/Data Scientist for the NIMH DSST"
-  email: earl@ohsu.edu
+  bio: "Data Scientist with the NIMH DSST"
+  email: eric.earl@nih.gov
   # Do not include the @ symbol in your Twitter username
-  twitter: ericearlohsu #username
+  twitter: ericearlybird #username
   linkedin: ericearl #username
   github: ericearl #username
   orcid: 0000-0001-5512-0083 # ID Number (ex. 0000-0000-0000-0000)
